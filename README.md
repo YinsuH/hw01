@@ -8,7 +8,7 @@ My name is **Yinsu Han**. I am a rising sophomore in the college, planning to ma
 * *Hanging out with my friends*
 
 ### This is a picture of mine in downtown Chicago
-![picture](https://github.com/YinsuH/hw01/blob/master/dt_chicago.JPG)
+![picture](dt_chicago.JPG)
 
 
 #### This is includes the reference information to finish HW01.
