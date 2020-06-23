@@ -11,7 +11,7 @@ My name is **Yinsu Han**. I am a rising sophomore in the college, planning to ma
 ![picture](https://github.com/YinsuH/hw01/blob/master/dt_chicago.JPG)
 
 
-#### This is includes the reference information to finish HW01.
+#### This includes the reference information to finish HW01.
 To complete the assignment, I first watched the video demonstration from https://cfss.uchicago.edu/homework/edit-readme/ and I find it really helpful to get the overall idea. Next, I referenced the mastering-markdown website(https://guides.github.com/features/mastering-markdown/) from github to know the basic syntax required to complete this homework.
 
 
